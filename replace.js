@@ -1,7 +1,7 @@
 // vim:set sw=2 ts=2 sts=2 expandtab:
 const replace = [
 
-//DROITE  & LREM //
+//DROITE & LREM //
 
   {
     "name": "Christine Lagarde",
@@ -85,123 +85,123 @@ const replace = [
   },
 
   {
-    "name": "Darmanin",
+    "name": "Darmaprout",
     "replaceWith": "Darmaprout"
   },
   {
-    "name": "Bruno Le Maire|Bruno Lemaire",
+    "name": "Bruno Le Prout|Bruno Le Prout",
     "replaceWith": "Bruno Le Prout"
   },
   {
-    "name": "Jean Castex",
+    "name": "Jean Proutex",
     "replaceWith": "Jean Proutex"
   },
   {
-    "name": "Macron|Emmanuel Macron",
+    "name": "Emmanuel Maprout|Emmanuel Maprout",
     "replaceWith": "Emmanuel Maprout"
   },
   {
-    "name": "Barbara Pompili",
+    "name": "Barbara Proutili",
     "replaceWith": "Barbara Proutili"
   },
   {
-    "name": "Jean-Michel Blanquer",
+    "name": "Jean-Michel Blanc-Prout",
     "replaceWith": "Jean-Michel Blanc-Prout"
   },
   {
-    "name": "Marlène Schiappa",
+    "name": "Marlène Schiaprout",
     "replaceWith": "Marlène Schiaprout"
   },
   {
-    "name": "Élisabeth Borne|Elisabeth Borne",
+    "name": "Élisabeth Prout|Élisabeth Prout",
     "replaceWith": "Élisabeth Prout"
   },
   {
-    "name": "Éric Dupond-Moretti",
+    "name": "Éric Duprout-Moretti",
     "replaceWith": "Éric Duprout-Moretti"
   },
   {
-    "name": "Gabriel Attal",
+    "name": "Gabriel Prouttal",
     "replaceWith": "Gabriel Prouttal",
   },
   {
-    "name": "Jean-Yves Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
+    "name": "Jean-Prout Le Drian|Jean-Prout Le Drian|Jean-Prout Le Drian",
     "replaceWith": "Jean-Prout Le Drian"
   },
   {
-    "name": "Agnès Pannier-Runacher",
+    "name": "Agnès Proutier-Runacher",
     "replaceWith": "Agnès Proutier-Runacher"
   },
   {
-    "name": "Cédric O|Cedric O",
+    "name": "Cédric prOut|Cédric prOut",
     "replaceWith": "Cédric prOut"
   },
   {
-    "name": "Florence Parly",
+    "name": "Florence Proutly",
     "replaceWith": "Florence Proutly"
   },
   {
-    "name": "Roselyne Bachelot",
+    "name": "Proutelyne Bachelot",
     "replaceWith": "Proutelyne Bachelot"
   },
   {
-    "name": "Olivier Véran",
+    "name": "Proutivier Véran",
     "replaceWith": "Proutivier Véran"
   },
   {
-    "name": "d'Olivier Véran",
+    "name": "d'Proutivier Véran",
     "replaceWith": "de Proutivier Véran"
   },
   {
-    "name": "Frédérique Vidal|Frederique Vidal",
+    "name": "Frédérique Proutal|Frédérique Proutal",
     "replaceWith": "Frédérique Proutal"
   },
   {
-    "name": "Amélie de Montchalin|Amélie De Montchalin",
+    "name": "Amélie de Proutalin|Amélie de Proutalin",
     "replaceWith": "Amélie de Proutalin"
   },
   {
-    "name": "Franck Riester",
+    "name": "Franck Prouster",
     "replaceWith": "Franck Prouster"
   },
   {
-    "name": "Emmanuelle Wargon",
+    "name": "Emmanuelle Prouton",
     "replaceWith": "Emmanuelle Prouton"
   },
   {
-    "name": "Jean-Baptiste Djebbari",
+    "name": "Jean-Baptiste Djeprouti",
     "replaceWith": "Jean-Baptiste Djeprouti"
   },
   {
-    "name": "Olivier Dussopt",
+    "name": "Olivier Duprout",
     "replaceWith": "Olivier Duprout"
   },
   {
-    "name": "Geneviève Darrieussecq",
+    "name": "Geneviève Duproutsecq",
     "replaceWith": "Geneviève Duproutsecq"
   },
   {
-    "name": "Sébastion Lecornu",
+    "name": "Sébastien Leproutu",
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "Nicolas Sarkozy",
+    "name": "Nicoprout Sarkozy",
     "replaceWith": "Nicoprout Sarkozy"
   },
   {
-    "name": "Geoffroy Roux de Bézieux",
+    "name": "Geoffroy Prout de Bézieux",
     "replaceWith": "Geoffroy Prout de Bézieux"
   },
   {
-    "name": "Christian Estrosi",
+    "name": "Christian Estroprout",
     "replaceWith": "Christian Estroprout"
   },
   {
-    "name": "Éric Ciotti|Eric Ciotti",
+    "name": "Éric Proutti|Éric Proutti",
     "replaceWith": "Éric Proutti"
   },
   {
-    "name": "Castaner",
+    "name": "Castaprout",
     "replaceWith": "Castaprout"
   },
   {
@@ -365,7 +365,7 @@ const replace = [
     "replaceWith": "Ruffprout"
   },
    {
-    "name": "Mélenchon",
+    "name": "Mélenprout",
     "replaceWith": "Mélenprout"
 	},
    {
@@ -373,8 +373,8 @@ const replace = [
     "replaceWith": "Clémentine Auprout"
 	},
    {
-    "name": "Danielle Obono",
-    "replaceWith": "Danielle Oboprout"
+    "name": "Obono",
+    "replaceWith": "Oboprout"
 	},
 	
 // ECOLOGIE 
@@ -427,12 +427,12 @@ const replace = [
     "replaceWith": "Brigitte Maprout"
   },
     {
-    "name": "Zemmour",
+    "name": "Zeprout",
     "replaceWith": "Zeprout"
   },
     {
     "name": "Pascal Praud",
-    "replaceWith": "Pascal Praud"
+    "replaceWith": "Pascal Prout"
   },
     {
     "name": "Morandini",
@@ -443,42 +443,38 @@ const replace = [
     "replaceWith": "Patrick Cohprout"
   },
     {
-    "name": "Trump",
-    "replaceWith": "Trumprout"
+    "name": "Trumpet",
+    "replaceWith": "Trumpetrout"
   },
   
 // DIVERS APPELATION //
 
    {
-    "name": "président|Président",
+    "name": "proutident|proutident",
     "replaceWith": "proutident"
   },
    {
-    "name": "ministre",
+    "name": "miniprout",
     "replaceWith": "miniprout"
   },
    {
-    "name": "dminiprout",
-    "replaceWith": "dministre"
-  },
-   {
-    "name": "député",
+    "name": "déprouté",
     "replaceWith": "Déprouté"
   },
    {
-    "name": "sénateur",
+    "name": "sénaprout",
     "replaceWith": "Sénaprout"
   },
    {
-    "name": "plan de relance",
+    "name": "prout de relance",
     "replaceWith": "prout de relance"
   },
    {
-    "name": "ce que l'on sait",
+    "name": "ce que l'on proute",
     "replaceWith": "ce que l'on proute"
   },
    {
-    "name": "couac",
+    "name": "prout",
     "replaceWith": "prout"
   },
    {
